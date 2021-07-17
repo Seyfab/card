@@ -37,7 +37,7 @@ body{
       rgba(58, 58, 158, 0.8),
       rgba(136, 136, 206, 0.7)
     ),
-    url(images/image-header-desktop.jpg);
+    url(image-header-desktop.jpg);
         background-repeat: no-repeat;
         background-size:cover;
         border-top-right-radius: 20px;
